@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ListApp</string>
+    <string name="gender_label">Gender: </string>
+    <string name="phone_label">phone: </string>
+    <string name="email_label">email: </string>
+    <string name="birth_date_label">Birth Date: </string>
+    <string name="age_label">age: </string>
+    <string name="blood_group_label">blood_type: </string>
+    <string name="height_label">height: </string>
+    <string name="weight_label">weight: </string>
+    <string name="eye_color_label">eye color: </string>
+    <string name="hair_color_label">hair color: </string>
+    <string name="address_label">address: </string>
+    <string name="city_label">city: </string>
+    <string name="company_label">company: </string>
+</resources>
